@@ -14,12 +14,13 @@ After much planning and preparation, it is finally time for the Titan 3023 crew,
 * Gravity is only 1/7 Earth normal.
 * The atmosphere is toxic. It is mostly nitrogen with some methane.
 * The temperature is -179℃ (-290℉). That is way below freezing!
-
-
+* At a distance of 1 billion miles, travel time with today’s technology is at least 7 years.
+* Titan’s atmosphere is so dense, it gets less than 1% of the light we receive on Earth.
+* Titan is outside the protective magnetosphere of Saturn about 5% of the time. This means that settlers and equipment are not always protected from solar radiation.
 
 Each round should bring the settlement closer to sustainable independence but it is up to the Saturnian Settler’s leaders to decide what choices are made for each round to sustain human life on the Saturnian satellite. 
 
-Space exploration is controlled by a global alliance called the Consolidated Space Agencies of Earth (CSEA). CSEA derives its mission priorities and funding from its member states They have seeded the settlement mission by launching a series of rockets containing the essential settlement structures needed to bootstrap the settlement. They have also secured funding for seven supply missions to provide critical resources and additional settlers to the settlement.
+Space exploration is controlled by a global alliance called the Consolidated Space Agencies of Earth (CSEA). CSEA derives its mission priorities and funding from its member states. They have seeded the settlement mission by launching a series of rockets containing the essential settlement structures needed to bootstrap the settlement. They have also secured funding for seven supply missions to provide critical resources and additional settlers to the settlement.
 
 Our settlers are about to embark on the journey of a lifetime to Titan where they intend to establish the first human settlement beyond the asteroid belt! Will they succeed? Their fate lies in your hands and in the choices you make on production and resource allocation both on Earth and within the settlement. Good luck! 
           
