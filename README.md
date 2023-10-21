@@ -57,3 +57,15 @@ Fuel Resource image by macrovector on Freepik
 * [What You Need to Know About Saturn's Moon Titan (video) ](https://www.youtube.com/watch?v=lr4r70DWShk)
 * [Building Blocks for Surviving Titan](https://svs.gsfc.nasa.gov/12736x)
 * [NASA’s Dragonfly Will Fly Around Titan Looking for Origins, Signs of Life](https://www.nasa.gov/news-release/nasas-dragonfly-will-fly-around-titan-looking-for-origins-signs-of-life/)
+
+## License
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
